@@ -1,7 +1,5 @@
 # PRODIGY_FS_05
 
-🔗Live Website Link : http://127.0.0.1:5501/social-media-website/index.html
-
 🌐 MySocial - Social Media Platform
 Welcome to MySocial! This repository hosts the code for an innovative social media platform designed to connect people from around the world. MySocial focuses on providing a seamless, engaging, and interactive user experience.
 
